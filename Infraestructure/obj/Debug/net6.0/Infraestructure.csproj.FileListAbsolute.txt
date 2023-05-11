@@ -1,0 +1,12 @@
+C:\Repositorio\APIs\api.cuentas\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+C:\Repositorio\APIs\api.cuentas\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+C:\Repositorio\APIs\api.cuentas\Infraestructure\bin\Debug\net6.0\ref\Infraestructure.dll
+C:\Repositorio\APIs\api.cuentas\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+C:\Repositorio\APIs\api.cuentas\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Repositorio\APIs\api.cuentas\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\APIs\api.cuentas\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Repositorio\APIs\api.cuentas\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Repositorio\APIs\api.cuentas\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Repositorio\APIs\api.cuentas\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+C:\Repositorio\APIs\api.cuentas\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
+C:\Repositorio\APIs\api.cuentas\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
